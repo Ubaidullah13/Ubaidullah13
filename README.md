@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Generative AI Model<br>👯 I’m looking to collaborate on projects related to Web/App development and designing<br>🌱 I’m currently learning Unreal Engine and AI/ML
+🔭 I’m currently working on new roguelike game after publishing my first game, PedalVerse<br>👯 I’m looking to collaborate on projects related to game development and designing<br>🌱 I’m currently learning Unreal Engine and AI/ML
 
 
 ## 🌐 Socials:
